@@ -1,9 +1,11 @@
 # FakeNews
-<p>This is a NLP project with embedding Glove
-for download glove-twiter download this URL</p>
-<a>
-https://drive.google.com/drive/folders/1wMCn47tdkBFOanHzraiXVxkNxLkln05w?usp=sharing</a>
+<a href="https://drive.google.com/drive/folders/1wMCn47tdkBFOanHzraiXVxkNxLkln05w?usp=sharing">
+Archivos</a>
 <img src="banner.png" alt="Drawing" style="width:1700px;">
-<p>Objetivo del proyecto </p>
-
-<p>Algoritmos empleados</p>
+<h1>Objetivos</h1>
+<p>El objetivo del proyecto es poder identificar patrones para la deteccion de noticias falsas</p>
+<h1>Algoritmos</h1>
+<p>Para esta tarea use RNN con capas de LSTM para poder implentar estos modelos use un diccionario que me reortaba el valor del
+embedding correspondiente a esa palabra para este caso use el embedding Glove</p>
+<h1>Keywords</h1>
+<p>Embeddings,LSTM,redes recurrentes,tokenizer,NLTK,fake news</p>
