@@ -1,6 +1,6 @@
 # FakeNews
 <a href="https://drive.google.com/drive/folders/1wMCn47tdkBFOanHzraiXVxkNxLkln05w?usp=sharing">
-Archivos</a>
+Poster,video,Glove-twiter</a>
 <img src="banner.png" alt="Drawing" style="width:1700px;">
 <h1>Objetivos</h1>
 <p>El objetivo del proyecto es poder identificar patrones para la deteccion de noticias falsas</p>
