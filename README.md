@@ -21,5 +21,5 @@ embedding correspondiente a esa palabra para este caso use el embedding Glove</p
 <p>Notes Image clasification</p>
 <p>Deep Learning</p>
 <p>Non Supervised Learning</p>
-<p>Genetic Algoritms</p>
+<p>Genetic Algorithms</p>
 <p>Simulated Anneling</p>
