@@ -12,3 +12,14 @@ objetivo del proyecto es poder identificar patrones para la deteccion de noticia
 embedding correspondiente a esa palabra para este caso use el embedding Glove</p>
 <h1>Keywords</h1>
 <p>Embeddings,LSTM,redes recurrentes,tokenizer,NLTK,fake news</p>
+<h1>En la parte de talleres</h1>
+<p>Statistical Distribution</p>
+<p>Machine Learning Classification GNN</p>
+<p>Clasification Others</p>
+<p>Machine learning regresion</p>
+<p>Machine learning methods</p>
+<p>Notes Image clasification</p>
+<p>Deep Learning</p>
+<p>Non Supervised Learning</p>
+<p>Genetic Algoritms</p>
+<p>Simulated Anneling</p>
